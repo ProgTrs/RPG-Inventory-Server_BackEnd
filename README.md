@@ -4,7 +4,6 @@
 
   <img src="https://img.shields.io/badge/C%2B%2B-98.7%25-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
   <img src="https://img.shields.io/badge/CMake-1.3%25-064F8C?style=for-the-badge&logo=cmake" alt="CMake" />
-  <img src="https://img.shields.io/badge/Mode-Game-Inventory-8A2BE2?style=for-the-badge" alt="Game Inventory" />
 
   <h3>A multiplayer RPG inventory management system built in C++</h3>
 
